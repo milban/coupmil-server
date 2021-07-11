@@ -32,3 +32,9 @@ lerna-debug.log*
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
+
+# nodeenv
+/env*
+
+# Auto generated GraphQL Schema
+/src/schema.gql
